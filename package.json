@@ -1,0 +1,13 @@
+{
+  "name": "jeopardis",
+  "version": "0.1.0",
+  "description": "Engine for online organizing \"Jeopardy!\" game according to localized rules used in \"Svoya igra\"",
+  "homepage": "https://github.com/sergeiivankov/jeopardis",
+  "author": "Sergei Ivankov <sergeiivankov@pm.me>",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergeiivankov/jeopardis"
+  }
+}
